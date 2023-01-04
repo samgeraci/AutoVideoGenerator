@@ -4,17 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74195990-ef7a-4390-8459-0fc9c913f899" name="Changes" comment="Working demo of web rendering">
-      <change afterPath="$PROJECT_DIR$/1 lorem ipsum.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 lorem ipsum.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageProcessing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lorem ipsum.png" afterDir="false" />
+    <list default="true" id="74195990-ef7a-4390-8459-0fc9c913f899" name="Changes" comment="Added image processing to working demo">
+      <change afterPath="$PROJECT_DIR$/Scraper.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 lorem ipsum.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 lorem ipsum.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageProcessing.py" beforeDir="false" afterPath="$PROJECT_DIR$/ImageProcessing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RedditClone.html" beforeDir="false" afterPath="$PROJECT_DIR$/RedditClone.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebAutomation.py" beforeDir="false" afterPath="$PROJECT_DIR$/WebAutomation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/geckodriver.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lorem ipsum.png" beforeDir="false" afterPath="$PROJECT_DIR$/lorem ipsum.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -185,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672730569415</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added image processing to working demo">
+      <created>1672781840997</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1672781840997</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -205,6 +212,7 @@
     <MESSAGE value="Adding RedditClone.html to test image formatting" />
     <MESSAGE value="Updating CSS formatting" />
     <MESSAGE value="Working demo of web rendering" />
-    <option name="LAST_COMMIT_MESSAGE" value="Working demo of web rendering" />
+    <MESSAGE value="Added image processing to working demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added image processing to working demo" />
   </component>
 </project>
